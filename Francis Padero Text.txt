@@ -1,0 +1,6 @@
+Name:Francis Padero
+Age:23
+Date of Birth: Oct 20, 2001
+Address: Nestle Tablon
+Prog Language Preference: Java
+IDE Preference: IntelliJ, VScode, netbeans
